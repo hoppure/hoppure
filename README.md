@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI, python**
 
-- 💬 Ask me about **anyting**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **hoppure@naver.com**
 
